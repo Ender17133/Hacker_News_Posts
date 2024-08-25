@@ -1,3 +1,4 @@
+[![Open in Jupyter](https://img.shields.io/badge/Open%20in-Jupyter-blue.svg?logo=jupyter)](https://github.com/Ender17133/Hacker_News_Posts/blob/main/Hacker_news.ipynb)
 # Exploring Hacker News Posts
 In this project, I am going to analyze two types of posts from [Hacker News](https://news.ycombinator.com/), where technology and startup related stories are voted and commented upon.                         
 
